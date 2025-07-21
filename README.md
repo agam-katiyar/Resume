@@ -15,7 +15,7 @@ This repository contains my updated **resume** in PDF format. Feel free to view 
 ---
 
 ## 🔗 Connect with me
-- 💼 LinkedIn: [Agam Katiyar](https://www.linkedin.com/in/agamkatiyar/)
+- 💼 LinkedIn: [Agam Katiyar](www.linkedin.com/in/agam-katiyar-a03b67291)
 - 📧 Email: agamkatiyar11@gmail.com
 - 🌐 GitHub: [agamkatiyar](https://github.com/agam-katiyar)
 
