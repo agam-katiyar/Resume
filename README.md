@@ -6,12 +6,6 @@ This repository contains my updated **resume** in PDF format. Feel free to view 
 
 ---
 
-## 📄 Resume
-
-- [Download Resume (PDF)](./Agam_Katiyar_Resume.pdf)
-
----
-
 ## 💡 Highlights
 
 - Solved **100+ DSA questions** on [LeetCode](https://leetcode.com/u/Agam_Katiyar/) and [GeeksforGeeks](https://www.geeksforgeeks.org/user/agamkatilny9/)
@@ -21,9 +15,9 @@ This repository contains my updated **resume** in PDF format. Feel free to view 
 ---
 
 ## 🔗 Connect with me
-
-- 📧 Email: agam.23bai10297@vitbhopal.ac.in
-- 🌐 GitHub: [agamkatilny9](https://github.com/agamkatilny9)
+- 💼 LinkedIn: [Agam Katiyar](https://www.linkedin.com/in/agamkatiyar/)
+- 📧 Email: agamkatiyar11@gmail.com
+- 🌐 GitHub: [agamkatiyar](https://github.com/agam-katiyar)
 
 ---
 
